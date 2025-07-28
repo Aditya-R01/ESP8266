@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL3C1CAbyyG"
-#define BLYNK_TEMPLATE_NAME "HomE Automation"
-#define BLYNK_AUTH_TOKEN "Pc8klXGl4CNVL7MpCSGmKHQ3h4rrYxWZ"
+#define BLYNK_TEMPLATE_ID "Your Template ID"
+#define BLYNK_TEMPLATE_NAME "Your Template Name"
+#define BLYNK_AUTH_TOKEN "Your Auth Token"
 #define BLYNK_PRINT Serial
 
 #include <ESP8266WiFi.h>
@@ -12,8 +12,8 @@ int relayPin = 15; // Assuming you physically connected to the pin labeled D5 on
 
 
 char auth[] = BLYNK_AUTH_TOKEN;
-char ssid[] = "JioFiber-Home";
-char pass[] = "Jiofiber@9876";
+char ssid[] = "Your WiFi SSID";
+char pass[] = "Your WiFi Password";
 
 void setup()
 {
