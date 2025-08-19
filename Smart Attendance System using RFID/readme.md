@@ -40,6 +40,13 @@ This project automatically records attendance when an RFID card is scanned and u
 
 ---
 
+## Images
+![Images](image1.jpg)
+
+![Images](image2.jpg)
+
+---
+
 ## 🔧 Setup & Workflow
 
 ### 1️⃣ Circuit Connection
